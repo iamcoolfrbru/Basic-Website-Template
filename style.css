@@ -17,6 +17,7 @@ body {
 #my-name {
     font-size: 75px;
     color: #FF00D1;
+    margin: auto;
 }
 #favorites-list {
     margin-bottom: 40px;
