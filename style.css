@@ -18,3 +18,9 @@ body {
     font-size: 75px;
     color: #FF00D1;
 }
+#favorites-list {
+    margin-bottom: 40px;
+}
+#my-table {
+    margin-bottom: 40px;
+}
