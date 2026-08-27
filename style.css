@@ -11,7 +11,7 @@ body {
     color: red;
     border: 2px solid #FF00D1;
     padding: 20px;
-    margin: 40px;
+    margin: auto;
     width: 200px;
 }
 #my-name {
